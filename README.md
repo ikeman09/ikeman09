@@ -7,8 +7,6 @@ Backend Developer
 I love to code and talk about infrastructure and other kinds of backend architectures as I am fond of studying emerging technologies in cloud computing.
 
 * 🌍  I'm based in Davao City, Philippines
-* ✉️  You can contact me at [iggyyuson09@gmail.com](mailto:iggyyuson09@gmail.com)
-* 🚀  I'm currently working on [The Remarkable Woman](http://theremarkablewoman.com.au)
 * 🧠  I'm learning AWS Services
 
 ### Skills
